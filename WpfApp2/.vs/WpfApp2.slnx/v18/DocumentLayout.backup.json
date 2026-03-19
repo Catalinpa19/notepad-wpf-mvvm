@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|c:\\facultatea_anul2_sem2\\map\\wpfapp2\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|c:\\facultatea_anul2_sem2\\map\\wpfapp2\\wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|c:\\facultatea_anul2_sem2\\map\\wpfapp2\\wpfapp2\\directoryinfo\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\directoryinfo\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|c:\\facultatea_anul2_sem2\\map\\wpfapp2\\wpfapp2\\headertoimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\headertoimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|c:\\facultatea_anul2_sem2\\map\\wpfapp2\\wpfapp2\\aboutwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\aboutwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|c:\\facultatea_anul2_sem2\\map\\wpfapp2\\wpfapp2\\aboutwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\aboutwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|c:\\facultatea_anul2_sem2\\map\\wpfapp2\\wpfapp2\\findreplacewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\findreplacewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|c:\\facultatea_anul2_sem2\\map\\wpfapp2\\wpfapp2\\findreplacewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\findreplacewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|c:\\facultatea_anul2_sem2\\map\\wpfapp2\\wpfapp2\\directoryinfo\\directorystructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\directoryinfo\\directorystructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|c:\\facultatea_anul2_sem2\\map\\wpfapp2\\wpfapp2\\directoryinfo\\data\\directoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\directoryinfo\\data\\directoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|c:\\facultatea_anul2_sem2\\map\\wpfapp2\\wpfapp2\\directoryinfo\\data\\directoryitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\directoryinfo\\data\\directoryitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|c:\\facultatea_anul2_sem2\\map\\wpfapp2\\wpfapp2\\directoryinfo\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\directoryinfo\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|c:\\facultatea_anul2_sem2\\map\\wpfapp2\\wpfapp2\\directoryinfo\\viewmodels\\directoryitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\directoryinfo\\viewmodels\\directoryitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|c:\\facultatea_anul2_sem2\\map\\wpfapp2\\wpfapp2\\directoryinfo\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\directoryinfo\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|c:\\facultatea_anul2_sem2\\map\\wpfapp2\\wpfapp2\\directoryinfo\\viewmodels\\textdocumentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\directoryinfo\\viewmodels\\textdocumentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|c:\\facultatea_anul2_sem2\\map\\wpfapp2\\wpfapp2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|c:\\facultatea_anul2_sem2\\map\\wpfapp2\\wpfapp2\\images\\101671.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{2A5BE75B-F2D1-534A-3AEE-35992022E4D5}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\images\\101671.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml",
+              "ToolTip": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-16T23:21:04.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FindReplaceWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\FindReplaceWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\FindReplaceWindow.xaml.cs",
+              "ToolTip": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\FindReplaceWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\FindReplaceWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:43:54.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FindReplaceWindow.xaml",
+              "DocumentMoniker": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\FindReplaceWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\FindReplaceWindow.xaml",
+              "ToolTip": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\FindReplaceWindow.xaml",
+              "RelativeToolTip": "WpfApp2\\FindReplaceWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-16T23:41:50.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutWindow.xaml",
+              "DocumentMoniker": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\AboutWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\AboutWindow.xaml",
+              "ToolTip": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\AboutWindow.xaml",
+              "RelativeToolTip": "WpfApp2\\AboutWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-16T23:43:36.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\AboutWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\AboutWindow.xaml.cs",
+              "ToolTip": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\AboutWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\AboutWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:44:30.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HeaderToImageConverter.cs",
+              "DocumentMoniker": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\HeaderToImageConverter.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\HeaderToImageConverter.cs",
+              "ToolTip": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\HeaderToImageConverter.cs",
+              "RelativeToolTip": "WpfApp2\\HeaderToImageConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:26:52.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:21:03.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\DirectoryInfo\\Viewmodels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\DirectoryInfo\\Viewmodels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\DirectoryInfo\\Viewmodels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "WpfApp2\\DirectoryInfo\\Viewmodels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAowJsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:37:10.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DirectoryStructure.cs",
+              "DocumentMoniker": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\DirectoryInfo\\DirectoryStructure.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\DirectoryInfo\\DirectoryStructure.cs",
+              "ToolTip": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\DirectoryInfo\\DirectoryStructure.cs",
+              "RelativeToolTip": "WpfApp2\\DirectoryInfo\\DirectoryStructure.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:32:30.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DirectoryItem.cs",
+              "DocumentMoniker": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\DirectoryInfo\\Data\\DirectoryItem.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\DirectoryInfo\\Data\\DirectoryItem.cs",
+              "ToolTip": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\DirectoryInfo\\Data\\DirectoryItem.cs",
+              "RelativeToolTip": "WpfApp2\\DirectoryInfo\\Data\\DirectoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:32:12.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DirectoryItemType.cs",
+              "DocumentMoniker": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\DirectoryInfo\\Data\\DirectoryItemType.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\DirectoryInfo\\Data\\DirectoryItemType.cs",
+              "ToolTip": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\DirectoryInfo\\Data\\DirectoryItemType.cs",
+              "RelativeToolTip": "WpfApp2\\DirectoryInfo\\Data\\DirectoryItemType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:32:28.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\DirectoryInfo\\Viewmodels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\DirectoryInfo\\Viewmodels\\BaseViewModel.cs",
+              "ToolTip": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\DirectoryInfo\\Viewmodels\\BaseViewModel.cs",
+              "RelativeToolTip": "WpfApp2\\DirectoryInfo\\Viewmodels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:31:27.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DirectoryItemViewModel.cs",
+              "DocumentMoniker": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\DirectoryInfo\\Viewmodels\\DirectoryItemViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\DirectoryInfo\\Viewmodels\\DirectoryItemViewModel.cs",
+              "ToolTip": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\DirectoryInfo\\Viewmodels\\DirectoryItemViewModel.cs",
+              "RelativeToolTip": "WpfApp2\\DirectoryInfo\\Viewmodels\\DirectoryItemViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:32:10.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\DirectoryInfo\\Viewmodels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\DirectoryInfo\\Viewmodels\\RelayCommand.cs",
+              "ToolTip": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\DirectoryInfo\\Viewmodels\\RelayCommand.cs",
+              "RelativeToolTip": "WpfApp2\\DirectoryInfo\\Viewmodels\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:31:43.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TextDocumentViewModel.cs",
+              "DocumentMoniker": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\DirectoryInfo\\Viewmodels\\TextDocumentViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\DirectoryInfo\\Viewmodels\\TextDocumentViewModel.cs",
+              "ToolTip": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\DirectoryInfo\\Viewmodels\\TextDocumentViewModel.cs",
+              "RelativeToolTip": "WpfApp2\\DirectoryInfo\\Viewmodels\\TextDocumentViewModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:32:54.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\AssemblyInfo.cs",
+              "ToolTip": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp2\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:39:13.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "101671.png",
+              "DocumentMoniker": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\Images\\101671.png",
+              "RelativeDocumentMoniker": "WpfApp2\\Images\\101671.png",
+              "ToolTip": "C:\\FACULTATEA_ANUL2_SEM2\\MAP\\WpfApp2\\WpfApp2\\Images\\101671.png",
+              "RelativeToolTip": "WpfApp2\\Images\\101671.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-03-16T23:23:49.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
